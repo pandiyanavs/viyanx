@@ -1,0 +1,13 @@
+{
+  "name": "viyanx-microsoft-style",
+  "version": "1.0.0",
+  "description": "Modern Microsoft-inspired ViyanX website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
